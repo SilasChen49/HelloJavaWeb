@@ -15,7 +15,9 @@
 <body>
     <p>
         hello
-        ${currentUser}
+        ${ID}
+        ${name}
+        ${phone}
     </p>
 </body>
 </html>
