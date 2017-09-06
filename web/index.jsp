@@ -11,24 +11,22 @@
 <html>
 <head>
     <title>主页</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <p>
 
-<form class="form-signin" action="/bill" method="post">
-    <div class="alert alert-warning">
-        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong>Warning!</strong> 该用户不存在!
-    </div>
-    <h2 class="form-signin-heading">用户登录</h2>
-    <input type="text" name="username" class="form-control" placeholder="用户名" required autofocus>
-    <input type="password" name="password" class="form-control" placeholder="密码" required>
-    <div class="checkbox">
-        <label>
-            <input type="checkbox" name="remember-me" value="on"> 记住我
-        </label>
-    </div>
-    <button class="btn btn-primary btn-block" type="submit">确定</button>
-</form>
+<div class="main clearfix">
+    <div class="box1"></div>
+    <div class="box2"></div>
+    <div class="box3"></div>
+    <div class="box4"></div>
+    <div class="box5"></div>
+    <div class="box6"></div>
+    <div class="box7"></div>
+    <div class="box8"></div>
+    <div class="box9"></div>
+</div>
+
 
 </p>
 </html>

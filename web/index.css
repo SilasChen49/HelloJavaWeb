@@ -1,0 +1,26 @@
+* { padding: 1%; margin: 10px; }
+.main {
+
+    background-color: #fff;
+    width: 90%;
+    padding-bottom: 90%;
+
+}
+/* .clearfix:after{
+    visibility: hidden;
+    display: inline-block;
+    content: "";
+    height: 0;
+    clear: both;
+    *zoom: 1;
+
+} */
+.main>div {
+    width: 26%;
+    padding-bottom: 26%;
+    border:2px solid #fff;
+    background-color: #E78326;
+    border-radius: 3%;
+    float: left;
+    margin: 1%;
+}
