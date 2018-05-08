@@ -6,42 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3225b7-d820-41aa-b9fa-453ed50c5f60" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/TradeServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/controller/SignInServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/controller/UserManagementServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/model/Blog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/model/Room.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cm/utils/ConnectionManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/view/blog.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/view/tradeIndex.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/view/user.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/signIn.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/signUp.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/trade.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/WEB-INF/classes/com/cm/Connect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/WEB-INF/classes/com/cm/Utils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/WEB-INF/classes/com/cm/bean/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cm/Connect.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cm/Utils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/cm/bean/Student.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/cm/Connect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/cm/Utils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/cm/bean/Student.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/WEB-INF/classes/com/cm/samples/ShalomServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/WEB-INF/classes/com/cm/samples/ShalomServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/cm/samples/ShalomServlet.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/cm/samples/ShalomServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/index.css" afterPath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/helloweb_war_exploded/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cm/samples/ShalomServlet.java" afterPath="$PROJECT_DIR$/src/com/cm/samples/ShalomServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.css" afterPath="$PROJECT_DIR$/web/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-    </list>
+    <list default="true" id="ee3225b7-d820-41aa-b9fa-453ed50c5f60" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/web/trade.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -825,7 +790,7 @@
       <workItem from="1505332113646" duration="10595000" />
       <workItem from="1505510849110" duration="576000" />
       <workItem from="1505829724521" duration="262000" />
-      <workItem from="1525743460146" duration="8108000" />
+      <workItem from="1525743460146" duration="8144000" />
     </task>
     <task id="LOCAL-00001" summary="connect with mySQL">
       <created>1504558011047</created>
@@ -838,7 +803,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62533000" />
+    <option name="totallyTimeSpent" value="62569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1082,47 +1047,47 @@
         <state relative-caret-position="1485">
           <caret line="99" column="42" lean-forward="false" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
           <folding>
-            <marker date="1525792646000" expanded="true" signature="74096:74113" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74096:74131" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74096:74144" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74096:74159" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74194:76720" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74207:76705" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74261:74654" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74280:74639" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74402:74619" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74442:74585" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74463:74563" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74687:74952" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74706:74937" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74739:74917" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74779:74883" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="74800:74861" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75002:75308" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75021:75293" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75095:75273" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75135:75239" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75156:75217" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75359:75624" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75378:75609" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75411:75589" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75451:75555" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75472:75533" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75667:75973" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75686:75958" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75760:75938" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75800:75904" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="75821:75882" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76024:76374" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76043:76359" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76122:76339" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76162:76305" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76183:76283" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76426:76691" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76445:76676" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76478:76656" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76518:76622" ph="..." />
-            <marker date="1525792646000" expanded="true" signature="76539:76600" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74096:74113" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74096:74131" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74096:74144" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74096:74159" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74194:76720" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74207:76705" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74261:74654" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74280:74639" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74402:74619" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74442:74585" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74463:74563" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74687:74952" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74706:74937" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74739:74917" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74779:74883" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="74800:74861" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75002:75308" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75021:75293" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75095:75273" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75135:75239" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75156:75217" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75359:75624" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75378:75609" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75411:75589" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75451:75555" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75472:75533" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75667:75973" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75686:75958" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75760:75938" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75800:75904" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="75821:75882" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76024:76374" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76043:76359" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76122:76339" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76162:76305" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76183:76283" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76426:76691" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76445:76676" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76478:76656" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76518:76622" ph="..." />
+            <marker date="1525793761000" expanded="true" signature="76539:76600" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1280,7 +1245,7 @@
     <entry file="file://$PROJECT_DIR$/web/trade.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding />
         </state>
       </provider>
