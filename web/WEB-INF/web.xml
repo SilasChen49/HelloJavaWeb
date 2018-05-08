@@ -3,14 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
-    <filter>
-        <filter-name>hello</filter-name>
-        <filter-class>com.cm.FirstFilter</filter-class>
-    </filter>
-    <filter-mapping>
-        <filter-name>hello</filter-name>
-        <servlet-name>HelloWorld</servlet-name>
-    </filter-mapping>
+
     <servlet>
         <servlet-name>HelloWorld</servlet-name>
         <servlet-class>com.cm.samples.ShalomServlet</servlet-class>
@@ -18,5 +11,31 @@
     <servlet-mapping>
         <servlet-name>HelloWorld</servlet-name>
         <url-pattern>/bill</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>TradeServlet</servlet-name>
+        <servlet-class>com.cm.TradeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TradeServlet</servlet-name>
+        <url-pattern>/trade</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SignInServlet</servlet-name>
+        <servlet-class>com.cm.controller.SignInServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SignInServlet</servlet-name>
+        <url-pattern>/SignIn</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>UserManagementServlet</servlet-name>
+        <servlet-class>com.cm.controller.UserManagementServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserManagementServlet</servlet-name>
+        <url-pattern>/UserManagement</url-pattern>
     </servlet-mapping>
 </web-app>

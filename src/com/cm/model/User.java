@@ -1,4 +1,4 @@
-package com.cm.dao;
+package com.cm.model;
 
 public class User {
     private String ID;

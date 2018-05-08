@@ -6,28 +6,43 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@page import="com.cm.Utils"%>
-<html>
+<html lang="en">
 <head>
-    <title>主页</title>
+    <title>Navigation</title>
+    <meta charset="UTF-8">
     <link rel="stylesheet" href="index.css">
 </head>
-<p>
+<body>
 
-<div class="main clearfix">
-    <div class="box1"></div>
-    <div class="box2"></div>
-    <div class="box3"></div>
-    <div class="box4"></div>
-    <div class="box5"></div>
-    <div class="box6"></div>
-    <div class="box7"></div>
-    <div class="box8"></div>
-    <div class="box9"></div>
-</div>
+<h1>Welcome to Room Reservation System</h1>
+
+    <div class="function" id="f1">
+        <form method="post" action="/UserManagement">
+            <input type="date"  name="date" value="2018-05-10" >
+            <input type="submit" value="OK">
+        </form>
+    </div>
+
+    <div class="function" id="f2">
+        <form>
+            <input type="button" class="button" value="Sign In" onclick="signIN()">
+        </form>
+
+        <form>
+            <input type="button" class="button" value="Sign Up" onclick="signOut()">
+        </form>
+    </div>
+
+    <script>
+        function signIN(){
+            window.location.href="trade.jsp";
+        }
+        function signOut(){
+            window.location.href="signUp.jsp";
+        }
+    </script>
 
 
-</p>
+
+</body>
 </html>
-

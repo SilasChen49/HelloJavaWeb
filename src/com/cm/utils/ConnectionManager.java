@@ -1,4 +1,4 @@
-package com.cm;
+package com.cm.utils;
 
 import java.sql.*;
 
